@@ -1,6 +1,0 @@
-print("Name: Keerthy")
-print("Course: Python full stack")
-print("Id: CGH3046")
-print("Branch: AIML")
-print("College: Malineni Lakshmaiah Women's Engineering college") 
-print("PASSED year: 2026")
